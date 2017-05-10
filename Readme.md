@@ -1,0 +1,1 @@
+Template project to start building a simple command line calculator
